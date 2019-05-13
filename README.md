@@ -131,8 +131,10 @@ Appendix B. The format of "Location file"
 	  ...
 	  <object IDn>, <1st coordinate>, <2nd coordinate>, ..., <m^th coordinate>
 
-Note that
-n = # of objects
+Note that 
+
+n = # of objects,  
+
 m = # of dimensions
 
 (See file running-loc in the folder for example)
@@ -173,8 +175,10 @@ Appendix D. The format of "result.txt"
 	  same format as for Query #1
 
 Note that 
-	k = the number of objects in the solution
-	t = <query set size>
+
+k = the number of objects in the solution
+
+t = `<query set size`>
 
 (See file result.txt in the folder for example)
 
