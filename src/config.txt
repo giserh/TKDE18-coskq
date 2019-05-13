@@ -1,0 +1,17 @@
+1	
+2
+
+2	
+9	
+running-loc	
+
+4
+running-doc	
+	
+0
+running-tree
+
+3	
+1	
+10	
+90

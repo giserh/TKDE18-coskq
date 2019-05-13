@@ -1,0 +1,1734 @@
+Query #1:
+Keywords: 2  3  1  
+Locations: 3.5990  5.9877  
+
+3
+4:	2  
+1:	1  
+3:	3  
+
+Cost: 3.3195
+Time: 0.000217
+
+Query #2:
+Keywords: 3  2  1  
+Locations: 6.7518  8.6324  
+
+3
+3:	3  
+1:	1  
+9:	2  
+
+Cost: 5.5326
+Time: 0.000183
+
+Query #3:
+Keywords: 3  2  1  
+Locations: 5.5967  6.2122  
+
+3
+9:	2  
+3:	3  
+1:	1  
+
+Cost: 5.0455
+Time: 0.000163
+
+Query #4:
+Keywords: 3  1  2  
+Locations: 4.7325  6.1693  
+
+3
+9:	2  
+3:	3  
+1:	1  
+
+Cost: 4.3725
+Time: 0.000138
+
+Query #5:
+Keywords: 2  1  3  
+Locations: 7.2988  1.8560  
+
+3
+7:	2  3  
+2:	2  
+6:	1  
+
+Cost: 5.6118
+Time: 0.000122
+
+Query #6:
+Keywords: 1  3  2  
+Locations: 9.2155  7.8734  
+
+2
+8:	1  
+7:	2  3  
+
+Cost: 5.0616
+Time: 0.000099
+
+Query #7:
+Keywords: 1  3  2  
+Locations: 9.9753  7.1769  
+
+2
+8:	1  
+7:	2  3  
+
+Cost: 5.1278
+Time: 0.000082
+
+Query #8:
+Keywords: 3  1  2  
+Locations: 7.9322  8.1302  
+
+2
+8:	1  
+7:	2  3  
+
+Cost: 4.9597
+Time: 0.000108
+
+Query #9:
+Keywords: 1  3  2  
+Locations: 9.2652  8.8111  
+
+2
+8:	1  
+7:	2  3  
+
+Cost: 5.9111
+Time: 0.000149
+
+Query #10:
+Keywords: 3  1  2  
+Locations: 9.4637  8.2007  
+
+2
+8:	1  
+7:	2  3  
+
+Cost: 5.4715
+Time: 0.000083
+
+Query #11:
+Keywords: 1  3  2  
+Locations: 4.7729  6.2620  
+
+3
+9:	2  
+3:	3  
+1:	1  
+
+Cost: 4.3336
+Time: 0.000129
+
+Query #12:
+Keywords: 1  2  3  
+Locations: 3.0986  5.4479  
+
+3
+4:	2  
+1:	1  
+3:	3  
+
+Cost: 3.2811
+Time: 0.000108
+
+Query #13:
+Keywords: 3  2  1  
+Locations: 2.8605  3.2903  
+
+3
+1:	1  
+4:	2  
+5:	3  
+
+Cost: 5.2882
+Time: 0.000173
+
+Query #14:
+Keywords: 1  2  3  
+Locations: 6.7328  8.7058  
+
+3
+3:	3  
+1:	1  
+9:	2  
+
+Cost: 5.5062
+Time: 0.000157
+
+Query #15:
+Keywords: 1  2  3  
+Locations: 1.6862  3.5557  
+
+3
+5:	3  
+4:	2  
+1:	1  
+
+Cost: 4.6465
+Time: 0.000105
+
+Query #16:
+Keywords: 2  3  1  
+Locations: 9.5062  2.1833  
+
+2
+8:	1  
+7:	2  3  
+
+Cost: 4.7110
+Time: 0.000084
+
+Query #17:
+Keywords: 3  1  2  
+Locations: 9.7062  7.0331  
+
+2
+7:	2  3  
+8:	1  
+
+Cost: 4.8230
+Time: 0.000074
+
+Query #18:
+Keywords: 2  1  3  
+Locations: 3.2951  6.2159  
+
+3
+4:	2  
+1:	1  
+3:	3  
+
+Cost: 3.0859
+Time: 0.000128
+
+Query #19:
+Keywords: 1  2  3  
+Locations: 7.8198  4.1206  
+
+2
+8:	1  
+7:	2  3  
+
+Cost: 4.7164
+Time: 0.000100
+
+Query #20:
+Keywords: 1  2  3  
+Locations: 5.7925  3.4339  
+
+2
+8:	1  
+7:	2  3  
+
+Cost: 6.2134
+Time: 0.000181
+
+Query #21:
+Keywords: 1  3  2  
+Locations: 7.0685  8.3290  
+
+2
+8:	1  
+7:	2  3  
+
+Cost: 5.3368
+Time: 0.000135
+
+Query #22:
+Keywords: 3  1  2  
+Locations: 2.2321  3.1883  
+
+3
+1:	1  
+4:	2  
+5:	3  
+
+Cost: 5.1087
+Time: 0.000171
+
+Query #23:
+Keywords: 2  3  1  
+Locations: 7.6748  8.0087  
+
+2
+8:	1  
+7:	2  3  
+
+Cost: 4.8633
+Time: 0.000107
+
+Query #24:
+Keywords: 3  2  1  
+Locations: 2.3220  7.5303  
+
+3
+1:	1  
+4:	2  
+3:	3  
+
+Cost: 4.3389
+Time: 0.000121
+
+Query #25:
+Keywords: 1  2  3  
+Locations: 6.9016  7.2572  
+
+2
+8:	1  
+7:	2  3  
+
+Cost: 4.4979
+Time: 0.000122
+
+Query #26:
+Keywords: 2  1  3  
+Locations: 5.2916  4.5044  
+
+3
+4:	2  
+1:	1  
+3:	3  
+
+Cost: 5.4568
+Time: 0.000196
+
+Query #27:
+Keywords: 3  2  1  
+Locations: 7.5717  4.2913  
+
+2
+8:	1  
+7:	2  3  
+
+Cost: 4.5900
+Time: 0.000121
+
+Query #28:
+Keywords: 2  3  1  
+Locations: 8.6378  7.4869  
+
+2
+8:	1  
+7:	2  3  
+
+Cost: 4.4464
+Time: 0.000089
+
+Query #29:
+Keywords: 3  2  1  
+Locations: 2.3138  7.5405  
+
+3
+1:	1  
+4:	2  
+3:	3  
+
+Cost: 4.3426
+Time: 0.000125
+
+Query #30:
+Keywords: 2  3  1  
+Locations: 4.9739  5.4899  
+
+3
+9:	2  
+3:	3  
+1:	1  
+
+Cost: 5.0619
+Time: 0.000222
+
+Query #31:
+Keywords: 2  3  1  
+Locations: 2.1915  7.0909  
+
+3
+1:	1  
+3:	3  
+4:	2  
+
+Cost: 3.9120
+Time: 0.000127
+
+Query #32:
+Keywords: 3  1  2  
+Locations: 7.4362  5.1461  
+
+2
+7:	2  3  
+8:	1  
+
+Cost: 3.8517
+Time: 0.000079
+
+Query #33:
+Keywords: 1  3  2  
+Locations: 8.6570  5.0596  
+
+2
+8:	1  
+7:	2  3  
+
+Cost: 3.9756
+Time: 0.000085
+
+Query #34:
+Keywords: 2  3  1  
+Locations: 8.6744  5.0592  
+
+2
+8:	1  
+7:	2  3  
+
+Cost: 3.9860
+Time: 0.000087
+
+Query #35:
+Keywords: 1  2  3  
+Locations: 3.1518  5.0151  
+
+3
+4:	2  
+1:	1  
+3:	3  
+
+Cost: 3.7168
+Time: 0.000145
+
+Query #36:
+Keywords: 1  2  3  
+Locations: 9.2293  7.7580  
+
+2
+8:	1  
+7:	2  3  
+
+Cost: 4.9736
+Time: 0.000092
+
+Query #37:
+Keywords: 1  2  3  
+Locations: 5.0543  5.5497  
+
+3
+9:	2  
+3:	3  
+1:	1  
+
+Cost: 5.0579
+Time: 0.000166
+
+Query #38:
+Keywords: 2  1  3  
+Locations: 1.8418  4.6523  
+
+3
+1:	1  
+4:	2  
+5:	3  
+
+Cost: 3.5987
+Time: 0.000122
+
+Query #39:
+Keywords: 1  3  2  
+Locations: 2.3792  6.9565  
+
+3
+4:	2  
+1:	1  
+3:	3  
+
+Cost: 3.8606
+Time: 0.000137
+
+Query #40:
+Keywords: 3  2  1  
+Locations: 7.0228  5.8812  
+
+2
+8:	1  
+7:	2  3  
+
+Cost: 3.8129
+Time: 0.000107
+
+Query #41:
+Keywords: 2  1  3  
+Locations: 3.9967  6.6857  
+
+3
+9:	2  
+3:	3  
+1:	1  
+
+Cost: 3.5792
+Time: 0.000114
+
+Query #42:
+Keywords: 2  1  3  
+Locations: 4.1993  7.1623  
+
+3
+9:	2  
+3:	3  
+1:	1  
+
+Cost: 3.5221
+Time: 0.000131
+
+Query #43:
+Keywords: 3  1  2  
+Locations: 6.2687  8.7648  
+
+3
+3:	3  
+1:	1  
+9:	2  
+
+Cost: 5.0389
+Time: 0.000142
+
+Query #44:
+Keywords: 1  2  3  
+Locations: 6.3072  2.4540  
+
+3
+7:	2  3  
+2:	2  
+6:	1  
+
+Cost: 6.1085
+Time: 0.000136
+
+Query #45:
+Keywords: 3  2  1  
+Locations: 3.9159  8.3528  
+
+3
+3:	3  
+1:	1  
+9:	2  
+
+Cost: 4.0653
+Time: 0.000131
+
+Query #46:
+Keywords: 2  1  3  
+Locations: 9.1530  7.1750  
+
+2
+8:	1  
+7:	2  3  
+
+Cost: 4.4747
+Time: 0.000080
+
+Query #47:
+Keywords: 2  1  3  
+Locations: 6.3331  7.6963  
+
+3
+4:	2  
+3:	3  
+1:	1  
+
+Cost: 5.1551
+Time: 0.000210
+
+Query #48:
+Keywords: 1  3  2  
+Locations: 5.6349  3.2451  
+
+2
+7:	2  3  
+6:	1  
+
+Cost: 5.9707
+Time: 0.000210
+
+Query #49:
+Keywords: 2  1  3  
+Locations: 5.5588  5.5685  
+
+2
+8:	1  
+7:	2  3  
+
+Cost: 5.3075
+Time: 0.000178
+
+Query #50:
+Keywords: 2  1  3  
+Locations: 2.0985  2.3437  
+
+3
+1:	1  
+4:	2  
+5:	3  
+
+Cost: 5.8995
+Time: 0.000178
+
+Query #51:
+Keywords: 1  2  3  
+Locations: 5.9251  4.1615  
+
+2
+8:	1  
+7:	2  3  
+
+Cost: 5.6007
+Time: 0.000196
+
+Query #52:
+Keywords: 3  1  2  
+Locations: 8.8215  7.2511  
+
+2
+8:	1  
+7:	2  3  
+
+Cost: 4.3251
+Time: 0.000079
+
+Query #53:
+Keywords: 2  3  1  
+Locations: 4.6446  8.6575  
+
+3
+3:	3  
+1:	1  
+9:	2  
+
+Cost: 3.5473
+Time: 0.000099
+
+Query #54:
+Keywords: 3  2  1  
+Locations: 1.6386  4.2594  
+
+3
+1:	1  
+4:	2  
+5:	3  
+
+Cost: 3.9414
+Time: 0.000113
+
+Query #55:
+Keywords: 2  3  1  
+Locations: 3.6443  8.6242  
+
+3
+1:	1  
+3:	3  
+9:	2  
+
+Cost: 4.1641
+Time: 0.000110
+
+Query #56:
+Keywords: 1  3  2  
+Locations: 1.6566  4.7214  
+
+3
+1:	1  
+4:	2  
+5:	3  
+
+Cost: 3.4819
+Time: 0.000127
+
+Query #57:
+Keywords: 2  3  1  
+Locations: 3.9908  3.4187  
+
+3
+4:	2  
+1:	1  
+3:	3  
+
+Cost: 5.4853
+Time: 0.000159
+
+Query #58:
+Keywords: 2  3  1  
+Locations: 3.6944  8.5558  
+
+3
+1:	1  
+3:	3  
+9:	2  
+
+Cost: 4.1410
+Time: 0.000124
+
+Query #59:
+Keywords: 2  1  3  
+Locations: 5.9365  6.3301  
+
+2
+8:	1  
+7:	2  3  
+
+Cost: 4.9182
+Time: 0.000205
+
+Query #60:
+Keywords: 1  2  3  
+Locations: 2.5466  7.0907  
+
+3
+4:	2  
+1:	1  
+3:	3  
+
+Cost: 3.9015
+Time: 0.000126
+
+Query #61:
+Keywords: 2  1  3  
+Locations: 8.0594  5.2443  
+
+2
+8:	1  
+7:	2  3  
+
+Cost: 3.5864
+Time: 0.000098
+
+Query #62:
+Keywords: 2  3  1  
+Locations: 9.1091  7.8341  
+
+2
+8:	1  
+7:	2  3  
+
+Cost: 4.9718
+Time: 0.000113
+
+Query #63:
+Keywords: 3  1  2  
+Locations: 5.5842  2.4693  
+
+2
+7:	2  3  
+6:	1  
+
+Cost: 5.6147
+Time: 0.000147
+
+Query #64:
+Keywords: 3  2  1  
+Locations: 2.2513  6.6733  
+
+3
+1:	1  
+4:	2  
+3:	3  
+
+Cost: 3.6943
+Time: 0.000122
+
+Query #65:
+Keywords: 1  3  2  
+Locations: 9.2766  3.5680  
+
+2
+7:	2  3  
+8:	1  
+
+Cost: 3.6710
+Time: 0.000103
+
+Query #66:
+Keywords: 1  2  3  
+Locations: 7.2809  8.8552  
+
+2
+8:	1  
+7:	2  3  
+
+Cost: 5.7728
+Time: 0.000153
+
+Query #67:
+Keywords: 2  1  3  
+Locations: 4.3683  8.1545  
+
+3
+4:	2  
+3:	3  
+1:	1  
+
+Cost: 3.9321
+Time: 0.000128
+
+Query #68:
+Keywords: 1  3  2  
+Locations: 2.1295  6.8080  
+
+3
+4:	2  
+3:	3  
+1:	1  
+
+Cost: 3.6700
+Time: 0.000117
+
+Query #69:
+Keywords: 1  3  2  
+Locations: 8.9809  4.0630  
+
+2
+7:	2  3  
+8:	1  
+
+Cost: 3.8495
+Time: 0.000090
+
+Query #70:
+Keywords: 3  1  2  
+Locations: 8.6570  4.5120  
+
+2
+7:	2  3  
+8:	1  
+
+Cost: 4.2657
+Time: 0.000096
+
+Query #71:
+Keywords: 3  2  1  
+Locations: 3.3819  4.1283  
+
+3
+4:	2  
+1:	1  
+3:	3  
+
+Cost: 4.6306
+Time: 0.000151
+
+Query #72:
+Keywords: 1  3  2  
+Locations: 5.1525  5.3067  
+
+3
+9:	2  
+3:	3  
+1:	1  
+
+Cost: 5.3132
+Time: 0.000191
+
+Query #73:
+Keywords: 3  2  1  
+Locations: 3.0478  4.0461  
+
+3
+4:	2  
+1:	1  
+3:	3  
+
+Cost: 4.6748
+Time: 0.000134
+
+Query #74:
+Keywords: 2  1  3  
+Locations: 9.6938  6.4394  
+
+2
+7:	2  3  
+8:	1  
+
+Cost: 4.5783
+Time: 0.000084
+
+Query #75:
+Keywords: 2  3  1  
+Locations: 2.6768  3.6094  
+
+3
+1:	1  
+4:	2  
+5:	3  
+
+Cost: 4.9208
+Time: 0.000141
+
+Query #76:
+Keywords: 2  1  3  
+Locations: 9.3964  4.9064  
+
+2
+7:	2  3  
+8:	1  
+
+Cost: 3.9174
+Time: 0.000088
+
+Query #77:
+Keywords: 2  1  3  
+Locations: 2.3560  4.2670  
+
+3
+5:	3  
+1:	1  
+4:	2  
+
+Cost: 4.2009
+Time: 0.000133
+
+Query #78:
+Keywords: 3  1  2  
+Locations: 7.5233  7.5388  
+
+2
+8:	1  
+7:	2  3  
+
+Cost: 4.4394
+Time: 0.000106
+
+Query #79:
+Keywords: 3  2  1  
+Locations: 5.7118  5.9911  
+
+2
+8:	1  
+7:	2  3  
+
+Cost: 5.1166
+Time: 0.000176
+
+Query #80:
+Keywords: 2  1  3  
+Locations: 6.9779  7.5655  
+
+2
+8:	1  
+7:	2  3  
+
+Cost: 4.6981
+Time: 0.000147
+
+Query #81:
+Keywords: 1  2  3  
+Locations: 7.8597  3.6777  
+
+2
+7:	2  3  
+8:	1  
+
+Cost: 4.9928
+Time: 0.000117
+
+Query #82:
+Keywords: 2  1  3  
+Locations: 5.1316  6.6090  
+
+3
+9:	2  
+3:	3  
+1:	1  
+
+Cost: 4.4622
+Time: 0.000125
+
+Query #83:
+Keywords: 3  2  1  
+Locations: 1.5247  7.3664  
+
+3
+1:	1  
+4:	2  
+3:	3  
+
+Cost: 3.8934
+Time: 0.000124
+
+Query #84:
+Keywords: 2  1  3  
+Locations: 7.7441  4.1992  
+
+2
+8:	1  
+7:	2  3  
+
+Cost: 4.6473
+Time: 0.000120
+
+Query #85:
+Keywords: 3  2  1  
+Locations: 6.3890  8.8277  
+
+3
+3:	3  
+1:	1  
+9:	2  
+
+Cost: 5.1553
+Time: 0.000142
+
+Query #86:
+Keywords: 3  2  1  
+Locations: 6.0978  7.6893  
+
+3
+4:	2  
+3:	3  
+1:	1  
+
+Cost: 4.9284
+Time: 0.000167
+
+Query #87:
+Keywords: 3  1  2  
+Locations: 9.1877  5.8476  
+
+2
+8:	1  
+7:	2  3  
+
+Cost: 4.0259
+Time: 0.000076
+
+Query #88:
+Keywords: 3  1  2  
+Locations: 3.8810  6.0599  
+
+3
+4:	2  
+1:	1  
+3:	3  
+
+Cost: 3.6033
+Time: 0.000107
+
+Query #89:
+Keywords: 1  3  2  
+Locations: 2.8151  5.8457  
+
+3
+4:	2  
+1:	1  
+3:	3  
+
+Cost: 2.9611
+Time: 0.000104
+
+Query #90:
+Keywords: 2  3  1  
+Locations: 9.3915  8.1434  
+
+2
+8:	1  
+7:	2  3  
+
+Cost: 5.3839
+Time: 0.000108
+
+Query #91:
+Keywords: 3  2  1  
+Locations: 7.4398  5.6761  
+
+2
+8:	1  
+7:	2  3  
+
+Cost: 3.4756
+Time: 0.000081
+
+Query #92:
+Keywords: 1  3  2  
+Locations: 6.6940  8.7555  
+
+3
+3:	3  
+1:	1  
+9:	2  
+
+Cost: 5.4637
+Time: 0.000114
+
+Query #93:
+Keywords: 1  3  2  
+Locations: 6.1198  8.1089  
+
+3
+3:	3  
+1:	1  
+9:	2  
+
+Cost: 5.0676
+Time: 0.000136
+
+Query #94:
+Keywords: 1  3  2  
+Locations: 8.1183  5.3034  
+
+2
+8:	1  
+7:	2  3  
+
+Cost: 3.5350
+Time: 0.000086
+
+Query #95:
+Keywords: 1  3  2  
+Locations: 8.6829  8.5901  
+
+2
+8:	1  
+7:	2  3  
+
+Cost: 5.5071
+Time: 0.000092
+
+Query #96:
+Keywords: 2  3  1  
+Locations: 6.9426  7.8836  
+
+2
+8:	1  
+7:	2  3  
+
+Cost: 4.9885
+Time: 0.000133
+
+Query #97:
+Keywords: 3  1  2  
+Locations: 6.8798  2.4615  
+
+3
+7:	2  3  
+2:	2  
+6:	1  
+
+Cost: 5.7571
+Time: 0.000125
+
+Query #98:
+Keywords: 1  2  3  
+Locations: 1.9207  5.6217  
+
+3
+1:	1  
+3:	3  
+4:	2  
+
+Cost: 3.4985
+Time: 0.000135
+
+Query #99:
+Keywords: 2  3  1  
+Locations: 7.3041  4.8234  
+
+2
+8:	1  
+7:	2  3  
+
+Cost: 4.1954
+Time: 0.000097
+
+Query #100:
+Keywords: 3  2  1  
+Locations: 6.1291  2.3862  
+
+3
+7:	2  3  
+2:	2  
+6:	1  
+
+Cost: 6.2328
+Time: 0.000165
+
+Query #101:
+Keywords: 1  2  3  
+Locations: 4.0140  5.8134  
+
+3
+4:	2  
+1:	1  
+3:	3  
+
+Cost: 3.7513
+Time: 0.000113
+
+Query #102:
+Keywords: 2  1  3  
+Locations: 6.9977  5.8010  
+
+2
+8:	1  
+7:	2  3  
+
+Cost: 3.8503
+Time: 0.000098
+
+Query #103:
+Keywords: 1  3  2  
+Locations: 9.2921  5.7809  
+
+2
+8:	1  
+7:	2  3  
+
+Cost: 4.1390
+Time: 0.000072
+
+Query #104:
+Keywords: 3  1  2  
+Locations: 5.7201  7.0236  
+
+3
+9:	2  
+3:	3  
+1:	1  
+
+Cost: 4.9852
+Time: 0.000144
+
+Query #105:
+Keywords: 3  2  1  
+Locations: 8.3441  7.8242  
+
+2
+8:	1  
+7:	2  3  
+
+Cost: 4.6848
+Time: 0.000092
+
+Query #106:
+Keywords: 1  2  3  
+Locations: 7.9057  2.0504  
+
+2
+7:	2  3  
+8:	1  
+
+Cost: 5.6897
+Time: 0.000102
+
+Query #107:
+Keywords: 2  3  1  
+Locations: 6.3832  6.0425  
+
+2
+8:	1  
+7:	2  3  
+
+Cost: 4.4458
+Time: 0.000132
+
+Query #108:
+Keywords: 3  2  1  
+Locations: 4.1331  3.6572  
+
+3
+4:	2  
+1:	1  
+3:	3  
+
+Cost: 5.3227
+Time: 0.000165
+
+Query #109:
+Keywords: 3  1  2  
+Locations: 7.5896  4.0947  
+
+2
+8:	1  
+7:	2  3  
+
+Cost: 4.7774
+Time: 0.000128
+
+Query #110:
+Keywords: 1  2  3  
+Locations: 6.2628  4.1477  
+
+2
+8:	1  
+7:	2  3  
+
+Cost: 5.3679
+Time: 0.000186
+
+Query #111:
+Keywords: 3  2  1  
+Locations: 1.9464  8.3122  
+
+3
+1:	1  
+4:	2  
+3:	3  
+
+Cost: 4.9020
+Time: 0.000104
+
+Query #112:
+Keywords: 3  2  1  
+Locations: 3.8156  7.0291  
+
+3
+9:	2  
+3:	3  
+1:	1  
+
+Cost: 3.4517
+Time: 0.000117
+
+Query #113:
+Keywords: 2  3  1  
+Locations: 1.5507  5.2406  
+
+3
+1:	1  
+4:	2  
+5:	3  
+
+Cost: 3.0639
+Time: 0.000104
+
+Query #114:
+Keywords: 2  1  3  
+Locations: 2.2651  5.8820  
+
+3
+4:	2  
+1:	1  
+3:	3  
+
+Cost: 3.4647
+Time: 0.000110
+
+Query #115:
+Keywords: 3  2  1  
+Locations: 1.4487  3.4971  
+
+3
+1:	1  
+4:	2  
+5:	3  
+
+Cost: 4.7096
+Time: 0.000118
+
+Query #116:
+Keywords: 2  1  3  
+Locations: 9.8927  3.2736  
+
+2
+7:	2  3  
+8:	1  
+
+Cost: 3.5627
+Time: 0.000085
+
+Query #117:
+Keywords: 1  2  3  
+Locations: 9.5252  2.9132  
+
+2
+7:	2  3  
+8:	1  
+
+Cost: 4.0144
+Time: 0.000086
+
+Query #118:
+Keywords: 1  3  2  
+Locations: 9.1467  4.1381  
+
+2
+7:	2  3  
+8:	1  
+
+Cost: 3.6929
+Time: 0.000085
+
+Query #119:
+Keywords: 3  2  1  
+Locations: 6.6111  2.5943  
+
+3
+7:	2  3  
+2:	2  
+6:	1  
+
+Cost: 5.9904
+Time: 0.000137
+
+Query #120:
+Keywords: 2  1  3  
+Locations: 6.6421  6.3634  
+
+2
+8:	1  
+7:	2  3  
+
+Cost: 4.2341
+Time: 0.000138
+
+Query #121:
+Keywords: 1  2  3  
+Locations: 1.4628  6.9595  
+
+3
+1:	1  
+5:	3  
+4:	2  
+
+Cost: 3.7621
+Time: 0.000117
+
+Query #122:
+Keywords: 3  1  2  
+Locations: 8.9889  8.7264  
+
+2
+8:	1  
+7:	2  3  
+
+Cost: 5.7286
+Time: 0.000105
+
+Query #123:
+Keywords: 3  2  1  
+Locations: 7.2186  4.2175  
+
+2
+8:	1  
+7:	2  3  
+
+Cost: 4.7747
+Time: 0.000128
+
+Query #124:
+Keywords: 3  1  2  
+Locations: 4.9716  1.9301  
+
+3
+3:	3  
+6:	1  
+2:	2  
+
+Cost: 5.8722
+Time: 0.000143
+
+Query #125:
+Keywords: 3  2  1  
+Locations: 2.6734  5.8788  
+
+3
+4:	2  
+1:	1  
+3:	3  
+
+Cost: 3.0687
+Time: 0.000102
+
+Query #126:
+Keywords: 2  3  1  
+Locations: 5.9013  8.7581  
+
+3
+3:	3  
+1:	1  
+9:	2  
+
+Cost: 4.6735
+Time: 0.000153
+
+Query #127:
+Keywords: 1  2  3  
+Locations: 4.2005  8.8482  
+
+3
+3:	3  
+1:	1  
+9:	2  
+
+Cost: 3.5689
+Time: 0.000101
+
+Query #128:
+Keywords: 2  3  1  
+Locations: 9.4158  4.4846  
+
+2
+7:	2  3  
+8:	1  
+
+Cost: 3.5874
+Time: 0.000098
+
+Query #129:
+Keywords: 1  3  2  
+Locations: 5.9683  8.4260  
+
+3
+3:	3  
+1:	1  
+9:	2  
+
+Cost: 4.8079
+Time: 0.000120
+
+Query #130:
+Keywords: 3  2  1  
+Locations: 2.2275  2.4366  
+
+3
+1:	1  
+4:	2  
+5:	3  
+
+Cost: 5.8337
+Time: 0.000177
+
+Query #131:
+Keywords: 3  1  2  
+Locations: 1.4062  3.0011  
+
+3
+1:	1  
+4:	2  
+5:	3  
+
+Cost: 5.2074
+Time: 0.000119
+
+Query #132:
+Keywords: 1  2  3  
+Locations: 4.1956  4.5795  
+
+3
+4:	2  
+1:	1  
+3:	3  
+
+Cost: 4.5769
+Time: 0.000158
+
+Query #133:
+Keywords: 2  3  1  
+Locations: 2.0818  4.6431  
+
+3
+1:	1  
+4:	2  
+5:	3  
+
+Cost: 3.7364
+Time: 0.000123
+
+Query #134:
+Keywords: 1  2  3  
+Locations: 7.0108  2.8679  
+
+2
+7:	2  3  
+8:	1  
+
+Cost: 6.0249
+Time: 0.000181
+
+Query #135:
+Keywords: 1  2  3  
+Locations: 5.1562  7.2657  
+
+3
+9:	2  
+3:	3  
+1:	1  
+
+Cost: 4.4513
+Time: 0.000126
+
+Query #136:
+Keywords: 3  1  2  
+Locations: 9.1742  2.1419  
+
+2
+7:	2  3  
+8:	1  
+
+Cost: 4.8618
+Time: 0.000101
+
+Query #137:
+Keywords: 1  3  2  
+Locations: 9.2550  2.6956  
+
+2
+7:	2  3  
+8:	1  
+
+Cost: 4.3306
+Time: 0.000100
+
+Query #138:
+Keywords: 2  1  3  
+Locations: 5.4221  4.0917  
+
+3
+4:	2  
+1:	1  
+3:	3  
+
+Cost: 5.8038
+Time: 0.000193
+
+Query #139:
+Keywords: 2  1  3  
+Locations: 1.7464  8.8755  
+
+3
+3:	3  
+1:	1  
+4:	2  
+
+Cost: 5.4181
+Time: 0.000128
+
+Query #140:
+Keywords: 3  2  1  
+Locations: 4.6166  3.3762  
+
+3
+4:	2  
+1:	1  
+3:	3  
+
+Cost: 5.8022
+Time: 0.000248
+
+Query #141:
+Keywords: 1  3  2  
+Locations: 3.7780  4.6827  
+
+3
+4:	2  
+1:	1  
+3:	3  
+
+Cost: 4.2502
+Time: 0.000148
+
+Query #142:
+Keywords: 3  1  2  
+Locations: 9.5328  8.8613  
+
+2
+7:	2  3  
+8:	1  
+
+Cost: 6.0745
+Time: 0.000103
+
+Query #143:
+Keywords: 3  1  2  
+Locations: 3.6156  2.1122  
+
+3
+4:	2  
+1:	1  
+3:	3  
+
+Cost: 6.6565
+Time: 0.000187
+
+Query #144:
+Keywords: 3  1  2  
+Locations: 3.8357  2.3677  
+
+3
+4:	2  
+1:	1  
+3:	3  
+
+Cost: 6.4475
+Time: 0.000209
+
+Query #145:
+Keywords: 3  1  2  
+Locations: 5.7265  3.2198  
+
+2
+7:	2  3  
+6:	1  
+
+Cost: 5.8866
+Time: 0.000194
+
+Query #146:
+Keywords: 1  2  3  
+Locations: 8.3721  6.0273  
+
+2
+7:	2  3  
+8:	1  
+
+Cost: 3.2015
+Time: 0.000073
+
+Query #147:
+Keywords: 1  3  2  
+Locations: 2.1255  7.8442  
+
+3
+4:	2  
+3:	3  
+1:	1  
+
+Cost: 4.5175
+Time: 0.000111
+
+Query #148:
+Keywords: 3  2  1  
+Locations: 4.5420  4.7395  
+
+3
+4:	2  
+1:	1  
+3:	3  
+
+Cost: 4.7119
+Time: 0.000171
+
+Query #149:
+Keywords: 3  1  2  
+Locations: 3.4685  5.8252  
+
+3
+4:	2  
+1:	1  
+3:	3  
+
+Cost: 3.2204
+Time: 0.000099
+
+Query #150:
+Keywords: 3  2  1  
+Locations: 2.3404  7.3616  
+
+3
+1:	1  
+4:	2  
+3:	3  
+
+Cost: 4.2148
+Time: 0.000116
+
