@@ -38,100 +38,98 @@ which format is explained in Appendix E.
 Appendix A. The format of config.txt
 ============================
 
-  <Cost indicator>
-  <Algorithm indicator> 
-  <# of dimensions>
-  <# of objects>
-  <Location file>
-  <# of keywords>
-  <Keyword file>
-  <IR-tree option>
-  <IR-tree file>
-  <# of query keywords>
-  <query set size>
-  <Percentile lower bound>
-  <Percentile upper bound>
+	  <Cost indicator>
+	  <Algorithm indicator> 
+	  <# of dimensions>
+	  <# of objects>
+	  <Location file>
+	  <# of keywords>
+	  <Keyword file>
+	  <IR-tree option>
+	  <IR-tree file>
+	  <# of query keywords>
+	  <query set size>
+	  <Percentile lower bound>
+	  <Percentile upper bound>
 
 
 Explanation of the content in config.txt
------------------------
 
-  <Cost indicator>
-    =   1: MaxMax
-    =   2: MaxMax2
-    =   3: Sum
-    =   4: max
-    =   5: MinMax
-    =   6: MinMax2
-    =   7: SumMax
-    =   8: SumMax2
 
-  <Algorithm indicator> 
-    = 1: Unified-E
-    = 2: Unified-A
-    = 3: Cao-E
-    = 4: Cao-A1
-    = 5: Cao-A2
-    = 6: Long-E
-    = 7: Long-A
-    = 8: Sum-E
-    = 9: Sum-A
-    = 32: Cao-E-new (in TODS15)
-    = 52: Cao-A-new (in TODS15)
-    = 82: Sum-E-new (in TODS15)
+	  <Cost indicator>
+	    =   1: MaxMax
+	    =   2: MaxMax2
+	    =   3: Sum
+	    =   4: max
+	    =   5: MinMax
+	    =   6: MinMax2
+	    =   7: SumMax
+	    =   8: SumMax2
 
-  <# of dimensions>
-    : the number of dimensions of spatial space.
+	  <Algorithm indicator> 
+	    = 1: Unified-E
+	    = 2: Unified-A
+	    = 3: Cao-E
+	    = 4: Cao-A1
+	    = 5: Cao-A2
+	    = 6: Long-E
+	    = 7: Long-A
+	    = 8: Sum-E
+	    = 9: Sum-A
+	    = 32: Cao-E-new (in TODS15)
+	    = 52: Cao-A-new (in TODS15)
+	    = 82: Sum-E-new (in TODS15)
 
-  <# of objects>
-    : the number of spatial objects.
+	  <# of dimensions>
+	    : the number of dimensions of spatial space.
 
-  <Location file>
-    : the file containing the locations of the spatial objects,
-  which format is explained in Appendix II.
+	  <# of objects>
+	    : the number of spatial objects.
 
-  <# of keywords>
-    : the total number of all possible keywords contained by the objects.
+	  <Location file>
+	    : the file containing the locations of the spatial objects,
+	  which format is explained in Appendix II.
 
-  <Keyword file>
-    : the file containing the keywords of the spatial objects,
-  which format is explained in Appendix III.
+	  <# of keywords>
+	    : the total number of all possible keywords contained by the objects.
 
-  <IR-tree option>
-    = 0: the IR-tree has been built (which will be built and stored in <IR-tree file>)
-    = 1: the IR-tree has been built (which is stored in <IR-tree file file>)
+	  <Keyword file>
+	    : the file containing the keywords of the spatial objects,
+	  which format is explained in Appendix III.
 
-  <IR-tree file>
-    : the file for storing a new (or an existing) IR-tree.
+	  <IR-tree option>
+	    = 0: the IR-tree has been built (which will be built and stored in <IR-tree file>)
+	    = 1: the IR-tree has been built (which is stored in <IR-tree file file>)
 
-  <# of query keywords>
-    : the number of keywords in the query (i.e., |q.\psi|).
+	  <IR-tree file>
+	    : the file for storing a new (or an existing) IR-tree.
 
-  <query set size>
-    : the number of queries that will be performed for the same setting, 
-    the average statistics based on which will be used.
+	  <# of query keywords>
+	    : the number of keywords in the query (i.e., |q.\psi|).
 
-  <Percentile lower bound>
-    : the percentile lower bound that is used for generating queries.
+	  <query set size>
+	    : the number of queries that will be performed for the same setting, 
+	    the average statistics based on which will be used.
 
-  <Percentile upper bound>
-    : the percentile upper bound that is used for generating queries.
+	  <Percentile lower bound>
+	    : the percentile lower bound that is used for generating queries.
 
-  <Random seed>
-    : the random seed for generating the queries. Use the same value to make sure same set of queries is used when comparing different algorithms.
+	  <Percentile upper bound>
+	    : the percentile upper bound that is used for generating queries.
 
-  (See file config.txt in the folder for example)
+	  <Random seed>
+	    : the random seed for generating the queries. Use the same value to make sure same set of queries is used when comparing different algorithms.
+
+	  (See file config.txt in the folder for example)
 
 Appendix B. The format of "Location file"
 ============================
 
-------------------------
-  <object ID1>, <1st coordinate>, <2nd coordinate>, ..., <m^th coordinate>
-  <object ID2>, <1st coordinate>, <2nd coordinate>, ..., <m^th coordinate>
-  <object ID3>, <1st coordinate>, <2nd coordinate>, ..., <m^th coordinate>
-  ...
-  <object IDn>, <1st coordinate>, <2nd coordinate>, ..., <m^th coordinate>
-------------------------
+	  <object ID1>, <1st coordinate>, <2nd coordinate>, ..., <m^th coordinate>
+	  <object ID2>, <1st coordinate>, <2nd coordinate>, ..., <m^th coordinate>
+	  <object ID3>, <1st coordinate>, <2nd coordinate>, ..., <m^th coordinate>
+	  ...
+	  <object IDn>, <1st coordinate>, <2nd coordinate>, ..., <m^th coordinate>
 
 Note that
 n = # of objects
@@ -142,39 +140,37 @@ m = # of dimensions
 Appendix C. The format of "Keyword file"
 =============================
 
-------------------------
-  <object ID1>, <1st keyword>, <2nd keyword>, ...
-  <object ID2>, <1st keyword>, <2nd keyword>, ...
-  <object ID3>, <1st keyword>, <2nd keyword>, ...
-  ...
-  <object IDn>, <1st keyword>, <2nd keyword>, ...
-------------------------
+
+	  <object ID1>, <1st keyword>, <2nd keyword>, ...
+	  <object ID2>, <1st keyword>, <2nd keyword>, ...
+	  <object ID3>, <1st keyword>, <2nd keyword>, ...
+	  ...
+	  <object IDn>, <1st keyword>, <2nd keyword>, ...
+
 
 (See file running-doc in the folder for example)
 
 Appendix D. The format of "result.txt"
 =============================
 
-------------------------
-  Query #1:
-  Keywords: <Keywords of the query>
-  ======================
-  <# of objects in the solution>
+	  Query #1:
+	  Keywords: <Keywords of the query>
+	  ======================
+	  <# of objects in the solution>
 
-  <object ID1>: <1st relevant of this object> <2nd relevant of this object> ...
-  <object ID2>: <1st relevant of this object> <2nd relevant of this object> ...
-  ...
-  <object IDk>: <1st relevant of this object> <2nd relevant of this object> ...
+	  <object ID1>: <1st relevant of this object> <2nd relevant of this object> ...
+	  <object ID2>: <1st relevant of this object> <2nd relevant of this object> ...
+	  ...
+	  <object IDk>: <1st relevant of this object> <2nd relevant of this object> ...
 
 
-  Query #2:
-  same format as for Query #1.
+	  Query #2:
+	  same format as for Query #1.
 
-  ...
+	  ...
 
-  Query #t:
-  same format as for Query #1
-------------------------
+	  Query #t:
+	  same format as for Query #1
 
 Note that 
 	k = the number of objects in the solution
@@ -184,13 +180,13 @@ Note that
 
 Appendix E. The format of "stat.txt"
 =============================
-  <Average cost function value>
+	  <Average cost function value>
 
-  <the time of building the IR-tree>
-  <the average time of performing a query>
+	  <the time of building the IR-tree>
+	  <the average time of performing a query>
 
-  <Memory usage>
-  <IR-tree memory usage>
+	  <Memory usage>
+	  <IR-tree memory usage>
 
 (See file stat.txt in the folder for example)
 
